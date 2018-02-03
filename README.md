@@ -8,11 +8,8 @@ Coursera has a course on Crypto at an Introductory level this is a notes
 - Hash as msg digest, since these are collision free
 - Hash has this property called hiding, H(r | x), when r is chosen from 2^256 it can effectively hide x.
 	- Commitment: here you seal the msg is envolope and put it on the table. Meaning you commited to the msg in the envolope and given the key to open it, the msg is trusted
-	* API:
-						- 
-
-
-.
+	* API: function commit with the following sig
+	 commit(msg) : (msg, key)
 
 ### Prerequisites
 
