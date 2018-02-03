@@ -2,7 +2,9 @@
 
 Coursera has a course on Crypto at an Introductory level this is a notes
 
-## Getting Started
+## Weeks
+	* Week 01:
+		- Introduction: Hash Functions
 
 .
 
